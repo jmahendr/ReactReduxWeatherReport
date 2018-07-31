@@ -1,25 +1,15 @@
-# ReduxSimpleStarter
+# ReactReduxWeatherReport
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Sample project using React and Redux to manage state and render UI.
+The project uses https://openweathermap.org/api to query weather details and display a graph of Temperature, Pressure and Humidity of a location. It also uses props.refs to embed a google map of the location.
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
+> git clone https://github.com/jmahendr/ReactReduxWeatherReport.git
+> cd ReactReduxWeatherReport
 > npm install
 > npm start
 ```
